@@ -1,0 +1,3 @@
+/home/hao/obj_optimized_ver0.1/CMakeFiles/edit_cache.dir
+/home/hao/obj_optimized_ver0.1/CMakeFiles/rebuild_cache.dir
+/home/hao/obj_optimized_ver0.1/CMakeFiles/sample.dir
